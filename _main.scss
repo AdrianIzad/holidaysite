@@ -1,0 +1,55 @@
+#mainJumbo {
+  min-height: 80vh;
+  background: url("pic1.jpg") center/cover no-repeat;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  font-family: "Poppins", sans-serif;
+  opacity: 0.8;
+  h1 {
+    color: blue;
+    font-size: 4rem;
+  }
+  p {
+    font-size: 1.5rem;
+    font-weight: bolder;
+  }
+}
+
+.card-deck {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.fas {
+  margin: 1rem auto;
+  font-size: 3rem;
+}
+#explore {
+  color: green;
+}
+
+#fun {
+  color: red;
+}
+
+#world {
+  color: yellow;
+}
+
+.btn-warning {
+  color: white;
+  border: 2px solid black;
+}
+.btn {
+  border: 2px solid black !important;
+  outline: none !important;
+}
+
+#centre {
+  text-align: center;
+  margin: 1rem 2rem;
+  line-height: 2rem;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}

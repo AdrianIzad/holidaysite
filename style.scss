@@ -1,0 +1,11 @@
+@import "./header";
+@import "./main";
+@import "./footer";
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  min-height: 160vh;
+}
